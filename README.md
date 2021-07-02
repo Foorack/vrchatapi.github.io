@@ -1,6 +1,6 @@
 ![VRChat API Banner](/assets/apibanner.png)
 
-# VRChat API Documentation
+# VRChat API Documentation TEST
 This project is an [OPEN Open Source Project](http://openopensource.org)
 
 Individuals making significant and valuable contributions are given
